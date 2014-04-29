@@ -27,7 +27,6 @@ Withdrawals
 During the withdrawal stage a player picks up a card from the withdrawal deck, placed face down on the table, or from the discard deck, placed face up on the table. The amount of cards a player may withdraw is determined by the ruleset the players have decided to use. The two types of withdrawals are as follows.
 
 * Standard - A player may either draw 1 card from the discard pile OR 1 card from the withdrawal deck, OR 2 cards from the withdrawals deck.
-
 * Balanced Banking - The rules for balanced banking withdrawals are exactly the same as for standard withdrawals, except they allow the withdrawer to bank twice in a turn if they pick up only one card from the withdrawal deck, and only once for both other withdrawals.
 
 At first it may seem pointless to be able to draw either one or two cards from the withdrawal deck, but all will become clear in the strategy section. A player may have a maximum of ten cards in their hand at any one time. For example if a player has nine cards at the start of a round, they may only pickup a single card from the withdrawal deck. Also as the game nears the end, picking up only one card may be strategically important.
